@@ -19,4 +19,4 @@ The purpose of this project is to analyze Amazon reviews on camera products writ
 * 42.3% Vine reviews and 49.9% non-Vine reviews were 5 stars.
 
 ## Summary
-There are 42.3% of 5 star Vine reviews comparing to 49.9% of 5 star non-Vine reviews, which suggests there is no bias toward favorable reviews from Vine members. In order to support this statement, we can conduct a further analysis on 5 star reviews among verified purchase to determine if there is any bias toward favorable reviews from paid Vine members, as verified purchase reviews are much moe genuine and trusted. 
+There are 42.3% of 5 star Vine reviews comparing to 49.9% of 5 star non-Vine reviews, which suggests there is no bias toward favorable reviews from Vine members. In order to support this statement, we can conduct a further analysis on 5 star reviews among verified purchase to determine if there is any bias toward favorable reviews from paid Vine members, as verified purchase reviews are much more genuine and trusted. 
